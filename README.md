@@ -1,6 +1,6 @@
 # nodets-canil
 
-###Pré requisitos:
+### Pré requisitos:
 
 `npm i -g nodemon typescript ts-node`
 
